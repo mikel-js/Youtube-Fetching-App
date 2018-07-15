@@ -1,4 +1,4 @@
-# Youtube Fetching Aoo
+# Youtube Fetching App
 ## Overview
 ### An app that uses Youtube API to search for videos
 
